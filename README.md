@@ -16,3 +16,7 @@ Putty comport ? Bautrate 115200
 - wifikey dein_wlan_passwort
 - save
 - reboot
+
+
+Mehr siehe hier
+https://www.letscontrolit.com/wiki/index.php/ESPEasy_Command_Reference
